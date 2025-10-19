@@ -1,6 +1,3 @@
-Of course. Here is a comprehensive `README.md` file for the Django project you just built. This file explains what the project is, how to set it up, and how to use it, following best practices for project documentation.
-
------
 
 # Django Profile API with Cat Facts
 
